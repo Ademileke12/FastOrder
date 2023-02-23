@@ -8,5 +8,5 @@ This is the Sole repo for the website Fastorder
 
 # Tools Used In Creating Fast Order
 <ul>
-<li><p>Hyper Text MArkup Language : HTML, You can Learn about HTML a <a href="https://www.w3schools.com/html/">W3schools</p></a></li>
+<li><p>Hyper Text MArkup Language : HTML, You can Learn about HTML at <a href="https://www.w3schools.com/html/">W3schools</a>.</p></li>
 </ul>
