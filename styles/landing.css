@@ -1,0 +1,150 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    position: relative;
+}
+
+.navbar {
+    margin: 0px;
+    width: 100%;
+    height: 20px;
+}
+
+.nav-ul {
+    margin: 0px;
+    padding: 10px;
+    list-style: none;
+}
+
+li {
+    float: left;
+    padding: 10px;
+    font-weight: 600;
+    margin-right: 40px;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
+
+.brand {
+    padding-right: 0px;
+    margin-right: 600px;
+    margin-left: 20px;
+    height: 200px;
+
+}
+
+/* .brand-h {
+   font-size: 26px;
+    margin-right: 300px;
+    margin-left: 0px;
+    padding-left: 0px;
+} */
+
+a {
+    text-decoration: none;
+    color: #000;
+    font-weight: 900; 
+}
+
+.active, li:hover {
+    color: #ff0073;
+    border-bottom: 4px solid #ff0073;
+}
+
+.brand:hover {
+    border-bottom: 0px;
+}
+
+/* .brand-h:hover {
+    border-bottom: 0px;
+} */
+
+.brand img {
+    width: 150px;
+}
+
+.main {
+    margin-top: 45px;
+    width: 100%;
+    height: 93vh;
+    border-radius:30px;
+    background-color: linear-gradient(-90deg, #fce7f6 0%, #e3eaf8 100%);
+}
+
+.main-class {
+    width: 36%;
+    margin-left: 50px;
+    padding-top: 10px;
+}
+
+.heading {
+    font-size: 53px;
+    color: #333;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.sub-heading {
+    font-size: 64px;
+    color: #222;
+    margin-top: 30px;
+    letter-spacing: 0.03em;
+    font-weight: 900;
+}
+
+.content {
+    width: 94%;
+    margin-top: 35px;
+    color: gray;
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.btn {
+    margin-top: 60px;
+}
+
+.btn a {
+    background: #fff;
+    font-size: 16px;
+    color: #ff0073;
+    border-radius: 25px;
+    padding: 15px 35px;
+    padding-left: 45px;
+    letter-spacing: 0.1em;
+    box-shadow: 2px 1px 7px #000;
+}
+
+.btn a i {
+    padding-left: 25px;
+}
+
+.main-display {
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+
+.display {
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.display img {
+    width: 90%;
+    
+}
+
+.display-btn {
+    margin-left: 450px;
+    margin-top: 150px;
+}
+
+.display-btn i {
+    color: #747474;
+    font-size: 30px;
+}
